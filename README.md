@@ -5,10 +5,8 @@ Cambiador de Divisas realizado en Java para verificar la versatilidad de consult
 For this project we are building a  Currency Exchange  programming in java and consulting an External API.
 
 I've used a Programming tools like:
-- Java
 
-IDE
-- -Intellij IDEA Community Edition 2023
+-Intellij IDEA Community Edition 2023
 
 The idea of the program is to have the next capabilities:
 
