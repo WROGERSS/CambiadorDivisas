@@ -6,7 +6,7 @@ He empleado las siguientes herramientas:
 
 - [x]  Intellij IDEA Community Edition 2023
 - [x]  Oracle OpenJDK version 18.0.11 de Java 
-- [x]  Gson Library 
+- [x]  Gson Library de Google version  2.11.0.jar
 - [x]  ExchangeRATE API
 
 La idea de la creacion de la aplicacion en Java es obtener las siguientes capacidades
@@ -24,7 +24,7 @@ I've used tools like:
 
 - [x]  Intellij IDEA Community Edition 2023
 - [x]  Oracle OpenJDK version 18.0.11 de Java 
-- [x]  Gson Library 
+- [x]  Google Gson Library version 2.11.0.jar
 - [x]  ExchangeRATE API
 
 The idea of the program is to have the next capabilities:
