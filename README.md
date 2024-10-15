@@ -1,12 +1,31 @@
-# CambiadorDivisas  / Currency Exchange
+# CambiadorDivisas
 
-Cambiador de Divisas realizado en Java para verificar la versatilidad de consultas de APis desde JAVA.
+Cambiador de Divisas realizado en Java para verificar la versatilidad de consultas de APIs desde JAVA Y .
 
-For this project we are building a  Currency Exchange  programming in java and consulting an External API.
+He empleado las siguientes herramientas:
 
-I've used a Programming tools like:
+- [x]  Intellij IDEA Community Edition 2023
+- [x]  Oracle OpenJDK version 18.0.11 de Java 
+- [x]  Gson Library 
+- [x]  ExchangeRATE API
 
--Intellij IDEA Community Edition 2023
+La idea de la creacion de la aplicacion en Java es obtener las siguientes capacidades
+
+- [x] Consulta de una API  externa de Cambio de Divisas
+- [x] Creacion de una aplication que visualiza un menu para seleccionar la divisa  a consultar.
+- [x] Prigramacion de POO en JAVA
+
+
+# Currency Exchange
+
+For this project we are building a  Currency Exchange  programming in JAVA and consulting an External API.
+
+I've used tools like:
+
+- [x]  Intellij IDEA Community Edition 2023
+- [x]  Oracle OpenJDK version 18.0.11 de Java 
+- [x]  Gson Library 
+- [x]  ExchangeRATE API
 
 The idea of the program is to have the next capabilities:
 
