@@ -13,7 +13,7 @@ La idea de la creacion de la aplicacion en Java es obtener las siguientes capaci
 
 - [x] Consulta de una API  externa de Cambio de Divisas
 - [x] Creacion de una aplication que visualiza un menu para seleccionar la divisa  a consultar.
-- [x] Prigramacion de POO en JAVA
+- [x] Programacion de POO en JAVA
 
 
 # Currency Exchange
@@ -34,7 +34,8 @@ The idea of the program is to have the next capabilities:
 - [x] POO Versatility in JAVA
 
 ### Diagram
-This is the interface of the Exchange Data and its functionalities
+Esta es la interfase de la aplicacion creada en Java y sus funcionalidades.
+This is the interface of the Currency Exchange and its functionalities
 ![MenuDelConversor](https://github.com/user-attachments/assets/50ead9a1-888e-43ea-a8c6-b0c321f1e725)
 
 
